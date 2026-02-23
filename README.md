@@ -1,5 +1,5 @@
 <!-- 赛博朋克动态横幅 -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0D0D0D:1A1A2E:7B2CBF&height=300&section=header&text=⚡%20AQI%20SYSTEM%20ONLINE%20⚡&fontSize=60&fontAlignY=35&fontColor=00F7FF&animation=twinkling&stroke=FF00FF&strokeWidth=2)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0D0D0D:1A1A2E:7B2CBF&height=300&section=header&text=%20aqi%20&fontSize=60&fontAlignY=35&fontColor=00F7FF&animation=twinkling&stroke=FF00FF&strokeWidth=2)
 
 ### ⚛️ 框架&库
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
