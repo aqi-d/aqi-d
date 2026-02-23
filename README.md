@@ -1,5 +1,5 @@
 <!-- 顶部波浪横幅 -->
-![欢迎横幅](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20[你的名字]&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![欢迎横幅](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20[aqi]&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 <!-- 打字机特效 -->
 ![打字机](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=前端开发工程师;热爱+Vue3;正在探索+TypeScript+世界;欢迎来到我的+GitHub+空间!)
